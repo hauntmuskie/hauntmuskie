@@ -1,16 +1,21 @@
-### Hi there 👋
+# hauntmuskie
 
-<!--
-**hauntmuskie/hauntmuskie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with experience in building web and mobile applications. My passion is to create intuitive and user-friendly products that solve real-world problems.
 
-Here are some ideas to get you started:
+## Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Website](#)
+- [LinkedIn](https://www.linkedin.com/in/rionggo-rahardi/)
+- [Twitter](https://twitter.com/riorahardi618)
+
+## Project highlights
+
+## Skills and technologies
+
+- Programming languages: JavaScript, Python, Java, C++, Dart, Rust
+- Frameworks and libraries: React, Angular, Node.js, Express, Flask, Flutter
+- Databases: MySQL, MongoDB, SQLite
+
+## Contact
+
+Email: rioclasher4@proton.me
