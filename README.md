@@ -45,7 +45,7 @@ while (alive) {
 
 ### Current Status:
 <div align="center">
-  <img src="https://media1.tenor.com/m/9RsYHkzRE0EAAAAd/shock-shocker.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0ZTA2ZDJlNDY1Y2JmMjM5MGU3NDU3ZDFiZDA1ZTI2ZDM5NGFlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
   <br>
   <i>Me debugging at 3 AM</i>
 </div>
